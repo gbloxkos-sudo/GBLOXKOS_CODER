@@ -1,0 +1,10 @@
+{
+  "model_tag": "dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl",
+  "model_title": "Qwen2.5 Coder 3B Instruct Abliterated",
+  "theme": "dark",
+  "ollama_url": "http://127.0.0.1:11434",
+  "window_width": 1918,
+  "window_height": 988,
+  "sidebar_width": 260,
+  "font_size": 13
+}

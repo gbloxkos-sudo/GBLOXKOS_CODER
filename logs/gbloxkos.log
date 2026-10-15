@@ -1,0 +1,85 @@
+2026-09-02 06:42:17,823 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 06:42:17,823 [gbloxkos.main] INFO: Ollama connected. 5 models available.
+2026-09-02 06:42:17,834 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 07:11:05,718 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 07:11:05,718 [gbloxkos.main] INFO: Ollama connected. 5 models available.
+2026-09-02 07:11:05,748 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 07:11:31,070 [gbloxkos.ollama] WARNING: Ollama returned 404: {"error":"model 'codellama' not found"}
+2026-09-02 07:11:33,077 [gbloxkos.ollama] WARNING: Ollama returned 404: {"error":"model 'codellama' not found"}
+2026-09-02 07:11:37,081 [gbloxkos.ollama] WARNING: Ollama returned 404: {"error":"model 'codellama' not found"}
+2026-09-02 07:13:00,905 [gbloxkos.main] CRITICAL: Unhandled exception:
+Traceback (most recent call last):
+  File "/home/dfat/Downloads/GBLOXKOS_AI_CHAT/GBLOXKOS_CODE_AI/dashboard.py", line 1354, in closeEvent
+    def closeEvent(self, event):
+    
+KeyboardInterrupt
+
+2026-09-02 08:48:26,580 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 08:48:26,582 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 08:48:26,582 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 08:48:26,596 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 08:50:14,228 [gbloxkos.dashboard] WARNING: Worker thread did not stop in time, terminating
+2026-09-02 09:47:38,639 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 09:47:38,641 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 09:47:38,641 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 09:57:35,874 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 09:57:35,876 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 09:57:35,876 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:47:16,998 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:47:17,001 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:47:17,001 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:47:17,002 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:47:17,020 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:48:41,577 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:48:41,581 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:48:41,581 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:48:41,582 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:48:41,590 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:53:34,166 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:53:34,168 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:53:34,169 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:53:34,169 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:53:34,177 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:54:54,709 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:54:54,711 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:54:54,711 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:54:54,712 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:54:54,721 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:58:56,017 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 10:58:56,019 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:58:56,020 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:58:56,020 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 10:58:56,029 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:13:36,034 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:13:36,035 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:13:36,035 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:13:36,036 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:13:36,044 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:15:10,299 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:15:10,300 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:15:10,300 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:15:10,301 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:15:10,308 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:20:49,692 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 11:20:49,694 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:20:49,694 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:20:49,694 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 11:20:49,712 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 15:06:09,701 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-09-02 15:06:09,710 [gbloxkos.config] INFO: Auto-detected 5 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 15:06:09,710 [gbloxkos.main] INFO: Ollama connected. 5 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 15:06:09,710 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:latest
+2026-09-02 15:06:09,722 [gbloxkos.ollama] INFO: Detected 5 Ollama models
+2026-10-15 10:34:37,695 [gbloxkos.ollama] INFO: Detected 4 Ollama models
+2026-10-15 10:34:37,698 [gbloxkos.config] INFO: Auto-detected 4 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:34:37,698 [gbloxkos.main] INFO: Ollama connected. 4 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:34:37,699 [gbloxkos.config] INFO: Config refreshed with detected model: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:34:37,713 [gbloxkos.ollama] INFO: Detected 4 Ollama models
+2026-10-15 10:43:49,284 [gbloxkos.ollama] INFO: Detected 4 Ollama models
+2026-10-15 10:43:49,300 [gbloxkos.config] INFO: Auto-detected 4 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:43:49,300 [gbloxkos.main] INFO: Ollama connected. 4 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:43:49,346 [gbloxkos.ollama] INFO: Detected 4 Ollama models
+2026-10-15 10:44:25,669 [gbloxkos.ollama] INFO: Detected 4 Ollama models
+2026-10-15 10:44:25,684 [gbloxkos.config] INFO: Auto-detected 4 models, default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:44:25,684 [gbloxkos.main] INFO: Ollama connected. 4 models available. Default: dagbs/qwen2.5-coder-3b-instruct-abliterated:q3_k_xl
+2026-10-15 10:44:25,748 [gbloxkos.ollama] INFO: Detected 4 Ollama models
